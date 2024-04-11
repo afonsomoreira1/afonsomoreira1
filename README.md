@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Afonso
 #### I am a student who is studying. 
-![I am a student who is studying. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a student who is studying. ]
 
 I make many projects in many applications like Visual Studion Code with python, html, css, java script, etc.
 
